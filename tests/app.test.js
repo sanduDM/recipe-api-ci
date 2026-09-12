@@ -14,3 +14,4 @@ expect(response.body.message).toBe("CI Pipeline Broken");
     });
 
 });
+// CI gate verification
